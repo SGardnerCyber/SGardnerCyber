@@ -21,7 +21,7 @@
 🌟 Currently Reading: - The Art of Invisibility, Tracers in the Dark
 📝 Skills: - Python, KQL, Incident Response, Incident Response, Log Analysis, SIEM, MDR
 💻 SIEMS: Splunk, Defender, Sentinel, Sentinel One, Logrhythm, Alien Vault, Cisco AMP
-🤔 I’m currently open for: <b>Networking</b> or a new <b>Job Opportunity</b>, this is <a href="[googledocslink](https://docs.google.com/document/d/1kUxCIldZLrOYDr_favbhPSw4cHqL3S9Z2Mvr-mq-ulw/edit)" target="_blank">MY RESUME.
+🤔 I’m currently open for: <b>Networking</b> or a new <b>Job Opportunity</b>, this is <a href="https://docs.google.com/document/d/1kUxCIldZLrOYDr_favbhPSw4cHqL3S9Z2Mvr-mq-ulw/edit" target="_blank">MY RESUME.
 </a>
 </pre>
 <Stats>
